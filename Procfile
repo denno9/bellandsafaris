@@ -1,1 +1,1 @@
-web: gunicorn bellandsafaris.wsgi --log-file -
+web: gunicorn footprints.wsgi --log-file -
