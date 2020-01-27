@@ -34,6 +34,8 @@ ALLOWED_HOSTS = ['bellandsafaris.herokuapp.com']
 INSTALLED_APPS = [
     'djangocms_history',
     'menus',
+    'cms',
+    'treebeard',
     'django.contrib.sites',
     'django.contrib.admin',
     'django.contrib.auth',
