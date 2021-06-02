@@ -77,7 +77,7 @@ tornado==6.0.3
 tqdm==4.42.0
 traitlets==4.3.3
 treebeard==0.0.4
-urllib3==1.25.8
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.16.1
 whitenoise==5.0.1
