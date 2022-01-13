@@ -13,7 +13,7 @@ dj-database-url==0.5.0
 Django==2.2.4
 django-appconf==1.0.3
 django-classy-tags==1.0.0
-django-cms==3.7.1
+django-cms==3.7.4
 django-formtools==2.2
 django-heroku==0.3.1
 django-sekizai==1.1.0
